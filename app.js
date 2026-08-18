@@ -1,3 +1,3 @@
 export const app = () => {
-    return "hello world"
+    return "texto genérico insano"
 }
