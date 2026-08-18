@@ -1,1 +1,1 @@
-# Iniciando minha loja online
+# Iniciando minha loja online.
