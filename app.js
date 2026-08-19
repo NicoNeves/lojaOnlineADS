@@ -1,3 +1,3 @@
 export const app = () => {
-    return "texto genérico insano"
+    return "Execute o desenvolvimento da tela de login"
 }
